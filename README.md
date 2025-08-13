@@ -65,6 +65,5 @@ Below are some previews of the **FINSIGHT** frontend built with Streamlit.
 ### Insight Page
 ![Insight Page](Insights_page.png)
 
-
 ---
 
