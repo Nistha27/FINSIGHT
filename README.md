@@ -59,10 +59,7 @@ require.emts.txt
 
 Below are some previews of the **FINSIGHT** frontend built with Streamlit.
 
-### Home Page
-![News Page](News_page.png)
-
-### Dasboard
+### Home Page Dasboard
 ![Dashboard Page](Dashboard.png)
 
 ### Insight Page
