@@ -55,15 +55,4 @@ require.emts.txt
 * jupyterlab
 ---
 
-## 📸 Screenshots
-
-Below are some previews of the **FINSIGHT** frontend built with Streamlit.
-
-### Home Page Dasboard
-![Dashboard Page](Dashboard.png)
-
-### Insight Page
-![Insight Page](Insights_page.png)
-
----
 
